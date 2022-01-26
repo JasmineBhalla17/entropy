@@ -1,3 +1,4 @@
 Bed
-couch
-breakfast nook
+couchs
+coffee table
+rugs
